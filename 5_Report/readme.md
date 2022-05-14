@@ -20,11 +20,16 @@ booster pump. <br><br>
 * The STM32F4DISCOVERY Discovery kit uses the capabilities of the STM32F407 high-performance microcontrollers, to allow users to develop any sort of applications with ease. It includes an ST-LINK/V2-A embedded debug tool, one ST-MEMS digital accelerometer, one digital microphone, one audio DAC with integrated class D speaker driver, LEDs, push-buttons, and a USB OTG Micro-AB connector.
 * It uses ARM architecture
 ##### Figure of STM32 board
+
 ![STM32_board](https://user-images.githubusercontent.com/60928280/168423747-9e258f1e-b5b6-4e4c-9483-c8fea1aea4f7.png)
+### Features of STM32F407VG
+The board we use here is STM32F407VG<br>
+![image](https://user-images.githubusercontent.com/60928280/168439652-0fee6073-72f5-4da5-a1bd-603d4b5f16d8.png)
 
 ### Links used for this project as reference
 1. [Windscreen Wiper Wikipedia](https://en.wikipedia.org/wiki/Windscreen_wiper)<br>
 2. [STM32](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)<br>
-3. https://learnembeddedsystems.co.uk/stm32f4-discovery-beginners-tutorial-blink-leds <br>
-4. https://microcontrollerslab.com/push-button-control-leds-stm32f4-discovery-board-digital-input-pins-hal-driver/ <br>
+3. [STM32F407VG](https://www.st.com/en/microcontrollers-microprocessors/stm32f407vg.html)
+4. https://learnembeddedsystems.co.uk/stm32f4-discovery-beginners-tutorial-blink-leds <br>
+5. https://microcontrollerslab.com/push-button-control-leds-stm32f4-discovery-board-digital-input-pins-hal-driver/ <br>
 
