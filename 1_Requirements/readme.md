@@ -28,3 +28,9 @@
 | HLR03 | Wiper switched OFF | Implemented |
 | HLR04 | Car turned OFF | Implemented |
 ## LOW LEVEL REQUIREMENTS
+| ID | Description | Status |
+|----|-------------|--------|
+|LLR01|Button makes RED light on (turn on the engine)|Implemented|
+|LLR02|LED lights blink (green, blue and orange) indicating wiper action | Implemented |
+|LLR03|LEDs blink faster indicating heavy rain, etc. | Implemented |
+|LLR04|Long press button makes all blinking lights OFF then RED light OFF | Implemented | 
