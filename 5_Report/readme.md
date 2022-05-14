@@ -21,12 +21,6 @@ booster pump. <br><br>
 * It uses ARM architecture
 ##### Figure of STM32 board
 ![STM32_board](https://user-images.githubusercontent.com/60928280/168423747-9e258f1e-b5b6-4e4c-9483-c8fea1aea4f7.png)
-![image](https://user-images.githubusercontent.com/60928280/168423685-8ecd5d14-7ac6-4f82-871e-09ed41730d35.png)
-![image](https://user-images.githubusercontent.com/60928280/168423701-b1d4c4f5-ac5a-4ac7-af1c-e7f174f5c5dd.png)
-![image](https://user-images.githubusercontent.com/60928280/168423717-81421a03-d0b7-457e-987c-b7db2ccdbecb.png)
-![image](https://user-images.githubusercontent.com/60928280/168423733-8be610dd-b11e-4238-8e52-2741e8889b1c.png)
-![image](https://user-images.githubusercontent.com/60928280/168423929-d5090ef0-b937-4efd-bae4-df4935c2d712.png)
-
 
 ### Links used for this project as reference
 1. [Windscreen Wiper Wikipedia](https://en.wikipedia.org/wiki/Windscreen_wiper)<br>
