@@ -16,4 +16,4 @@
 | `6_Output` | Contains the output for this project |<br>
 ### ___Badges___
 ![cppcheck](https://github.com/junaidferoz/M3_Wiper-Control-System/actions/workflows/cppcheck.yml/badge.svg)
-![Build-Linux](https://github.com/junaidferoz/M3_Wiper-Control-System/actions/workflows/Build-linux.yml/badge.svg)
+![Build-Linux](https://github.com/junaidferoz/M3_Wiper-Control-System/actions/workflows/build-Linux.yml/badge.svg)
