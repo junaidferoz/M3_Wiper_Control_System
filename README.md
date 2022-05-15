@@ -1,4 +1,7 @@
 # M3_Wiper-Contorol-System
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/93fb7599d5224f2eab767a562fa6a0c5)](https://app.codacy.com/gh/junaidferoz/M3_Wiper-Control-System?utm_source=github.com&utm_medium=referral&utm_content=junaidferoz/M3_Wiper-Control-System&utm_campaign=Badge_Grade_Settings)
+
 * This project is all about designing a wiper control system for cars. 
 * We use STM32cube IDE and Qemu for emulating the operation. 
 * As qemu supports only 4 LEDs and a Switch, we make use of LEDs to notify the operations.
