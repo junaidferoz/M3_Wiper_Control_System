@@ -13,4 +13,7 @@
 | `3_Implementation` | Contains all the code used for implementing this system |
 | `4_TestPlan` | Contains the test plan for this project |
 | `5_Report` | Contains the detailed report for the project |
-| `6_Output` | Contains the output for this project |
+| `6_Output` | Contains the output for this project |<br>
+### ___Badges___
+![cppcheck](https://github.com/junaidferoz/M3_Wiper-Control-System/actions/workflows/cppcheck.yml/badge.svg)
+![Build-Linux](https://github.com/junaidferoz/M3_Wiper-Control-System/actions/workflows/Build-linux.yml/badge.svg)
